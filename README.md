@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning machine learning algorithms and web development.
 - 💞️ I’m looking to collaborate on open-source projects related to AI or web development.
 - 📫 You can reach me via email at crissygrao@gmail.com.
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm an avid hiker and love exploring nature trails on weekends!
 
 <!---
